@@ -37,6 +37,10 @@ The Model-View-Template (MVT) is slightly different from MVC. In fact the main d
 
 - Dislaying Images corresponding to the model in various sections on the website pages.
 
+## Functionalities To be added
+
+- Youtube and Instagram Django API for adding youtube or instagram updates on the website. 
+
 ## User Guidelines
 
 1. Clone the repository.
